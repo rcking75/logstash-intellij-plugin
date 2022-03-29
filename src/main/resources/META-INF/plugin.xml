@@ -1,8 +1,8 @@
-<idea-plugin url="https://github.com/ikorennoy/logstash-intellij-plugin">
+<idea-plugin url="https://github.com/rcking75/logstash-intellij-plugin">
     <id>com.github.redfoos.logstash-intellij-plugin</id>
     <name>Logstash Config Files Support</name>
     <version>XXX</version>
-    <vendor email="korennoy.ilya@gmail.com" url="https://github.com/ikorennoy"/>
+    <vendor email="rcking75@gmail.com" url="https://github.com/rcking75"/>
 
     <description><![CDATA[
     <strong>Logstash config syntax highlighter for JetBrains IDEs.</strong><br>
